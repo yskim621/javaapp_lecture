@@ -1,5 +1,4 @@
-package java.lang;
-
+/*
 enum Telecom {
     SKT, KT, LGT, Other;
 }
@@ -9,4 +8,4 @@ public class Enum{
 	 Telecom t = Telecom.SKT;
 	 System.out.println("t:" + t);
  }
-}
+}*/
